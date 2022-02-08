@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alexantoinefortin/alexantoinefortin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexantoinefortin&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/alexantoinefortin/github-readme-stats)
+  
+  **📫 Reach me at:**<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/fortinalex/)
+[![Gmail Badge](https://img.shields.io/badge/-alex.antoine.fortin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.antoine.fortin@gmail.com)](mailto:alex.antoine.fortin@gmail.com)
