@@ -1,5 +1,5 @@
 <!--
-**alexantoinefortin/alexantoinefortin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fortin-alex/fortin-alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexantoinefortin&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/alexantoinefortin/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortin-alex&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fortin-alex/github-readme-stats)
   
   **📫 Reach me at:**<br>
 
