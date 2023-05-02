@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=fortin-alex&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fortin-alex/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fortin-alex&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fortin-alex/github-readme-stats)
   
   **📫 Reach me at:**<br>
 
